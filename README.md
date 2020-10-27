@@ -9,7 +9,7 @@
 
 ## サンプル問題のダウンロード
 
-サンプル問題は[こちら](https://github.com/FujitsuLaboratories/NetworkDisconnectivityOptimization/tree/master/sample)からダウンロードできます。
+サンプル問題は[こちら](https://github.com/FujitsuLaboratories/NetworkDisconnectivityOptimization/archive/master.zip)からダウンロードできます。
 
 ### 公開している問題一覧
 
